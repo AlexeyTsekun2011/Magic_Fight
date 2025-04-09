@@ -10,7 +10,7 @@ from enemy import Enemy
 from magicball import *
 import pygame_menu
 
-GESTURE_MODE = False
+GESTURE_MODE = True 
 if GESTURE_MODE:
     from gesture import Gesture
 
